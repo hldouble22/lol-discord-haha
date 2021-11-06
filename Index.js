@@ -28,4 +28,4 @@ client.on("guildMemberAdd", async member => {
   .setFooter('Thanks For Joining!')
   channel.send(WELCOME)
 })
-client.login("OTAxNzQxMDcxNjA2ODk4NzM4.YXUR0Q.kRnM81WvAKNbh--YL_sUm4S3it8");
+client.login("gay");
